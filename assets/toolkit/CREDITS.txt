@@ -1,0 +1,11 @@
+Toolkit icon artwork
+
+Devicon: https://github.com/devicons/devicon
+Revision: 6a37858047b0e8d9c9c0e68f4a071fc410652e89
+License: MIT; see LICENSE-devicon.txt.
+
+Simple Icons: https://github.com/simple-icons/simple-icons
+Revision: 4d29a35c954699b389a834aacc97dd6e7e74143c
+License: CC0-1.0; see LICENSE-simple-icons.txt.
+
+Original tile frames, labels, and concept symbols created for this profile. Brand names and marks identify technologies; they do not imply endorsement. Sources and contribution evidence are recorded in sources.json.

@@ -99,9 +99,104 @@ A mix of my own products and work I've done with client teams.
 
 ### Tools I work with
 
-**Web** · TypeScript, React, Next.js, Lit  
-**Backend & data** · Node.js, Python, FastAPI, PostgreSQL, Redis, MongoDB  
-**Delivery & creative** · Docker, GitHub Actions, Azure, Storybook, Capacitor, Three.js, React Three Fiber
+From interfaces and background jobs to data, integrations, and delivery.
+
+**01 · Interfaces**
+
+<p>
+  <img src="./assets/toolkit/typescript.svg" width="88" height="84" alt="TypeScript" title="TypeScript">
+  <img src="./assets/toolkit/javascript.svg" width="88" height="84" alt="JavaScript" title="JavaScript">
+  <img src="./assets/toolkit/react.svg" width="88" height="84" alt="React" title="React">
+  <img src="./assets/toolkit/nextjs.svg" width="88" height="84" alt="Next.js" title="Next.js">
+  <img src="./assets/toolkit/reactquery.svg" width="88" height="84" alt="TanStack Query" title="TanStack Query">
+  <img src="./assets/toolkit/lit.svg" width="88" height="84" alt="Lit" title="Lit">
+  <img src="./assets/toolkit/storybook.svg" width="88" height="84" alt="Storybook" title="Storybook">
+  <img src="./assets/toolkit/zod.svg" width="88" height="84" alt="Zod" title="Zod">
+</p>
+
+**02 · Services & background jobs**
+
+<p>
+  <img src="./assets/toolkit/nodejs.svg" width="88" height="84" alt="Node.js" title="Node.js">
+  <img src="./assets/toolkit/python.svg" width="88" height="84" alt="Python" title="Python">
+  <img src="./assets/toolkit/fastapi.svg" width="88" height="84" alt="FastAPI" title="FastAPI">
+  <img src="./assets/toolkit/hono.svg" width="88" height="84" alt="Hono" title="Hono">
+  <img src="./assets/toolkit/express.svg" width="88" height="84" alt="Express" title="Express">
+  <img src="./assets/toolkit/trpc.svg" width="88" height="84" alt="tRPC" title="tRPC">
+  <img src="./assets/toolkit/celery.svg" width="88" height="84" alt="Celery" title="Celery">
+</p>
+
+**03 · Data & models**
+
+<p>
+  <img src="./assets/toolkit/postgresql.svg" width="88" height="84" alt="PostgreSQL" title="PostgreSQL">
+  <img src="./assets/toolkit/mongodb.svg" width="88" height="84" alt="MongoDB" title="MongoDB">
+  <img src="./assets/toolkit/redis.svg" width="88" height="84" alt="Redis" title="Redis">
+  <img src="./assets/toolkit/drizzle.svg" width="88" height="84" alt="Drizzle ORM" title="Drizzle ORM">
+  <img src="./assets/toolkit/sqlalchemy.svg" width="88" height="84" alt="SQLAlchemy" title="SQLAlchemy">
+  <img src="./assets/toolkit/mongoose.svg" width="88" height="84" alt="Mongoose" title="Mongoose">
+  <img src="./assets/toolkit/sqlite.svg" width="88" height="84" alt="SQLite" title="SQLite">
+</p>
+
+**04 · APIs & integrations**
+
+<p>
+  <img src="./assets/toolkit/stripe.svg" width="88" height="84" alt="Stripe" title="Stripe">
+  <img src="./assets/toolkit/clerk.svg" width="88" height="84" alt="Clerk" title="Clerk">
+  <img src="./assets/toolkit/rest.svg" width="88" height="84" alt="REST APIs" title="REST APIs">
+  <img src="./assets/toolkit/oauth.svg" width="88" height="84" alt="OAuth" title="OAuth">
+  <img src="./assets/toolkit/webhooks.svg" width="88" height="84" alt="Webhooks" title="Webhooks">
+  <img src="./assets/toolkit/llm.svg" width="88" height="84" alt="LLM APIs" title="LLM APIs">
+  <img src="./assets/toolkit/anthropic.svg" width="88" height="84" alt="Anthropic" title="Anthropic">
+  <img src="./assets/toolkit/openrouter.svg" width="88" height="84" alt="OpenRouter" title="OpenRouter">
+</p>
+
+**05 · Delivery & operations**
+
+<p>
+  <img src="./assets/toolkit/docker.svg" width="88" height="84" alt="Docker" title="Docker">
+  <img src="./assets/toolkit/githubactions.svg" width="88" height="84" alt="GitHub Actions" title="GitHub Actions">
+  <img src="./assets/toolkit/terraform.svg" width="88" height="84" alt="Terraform" title="Terraform">
+  <img src="./assets/toolkit/azure.svg" width="88" height="84" alt="Azure" title="Azure">
+  <img src="./assets/toolkit/amazonwebservices.svg" width="88" height="84" alt="AWS" title="AWS">
+  <img src="./assets/toolkit/prometheus.svg" width="88" height="84" alt="Prometheus" title="Prometheus">
+  <img src="./assets/toolkit/sentry.svg" width="88" height="84" alt="Sentry" title="Sentry">
+</p>
+
+**06 · Testing**
+
+<p>
+  <img src="./assets/toolkit/playwright.svg" width="88" height="84" alt="Playwright" title="Playwright">
+  <img src="./assets/toolkit/pytest.svg" width="88" height="84" alt="pytest" title="pytest">
+</p>
+
+**07 · Creative web & mobile**
+
+<p>
+  <img src="./assets/toolkit/threejs.svg" width="88" height="84" alt="Three.js" title="Three.js">
+  <img src="./assets/toolkit/react-three-fiber.svg" width="88" height="84" alt="React Three Fiber" title="React Three Fiber">
+  <img src="./assets/toolkit/capacitor.svg" width="88" height="84" alt="Capacitor" title="Capacitor">
+  <img src="./assets/toolkit/googlemaps.svg" width="88" height="84" alt="Google Maps API" title="Google Maps API">
+</p>
+
+<details>
+<summary>More integrations &amp; earlier work</summary>
+<p><strong>More project integrations</strong></p>
+<p>
+  <img src="./assets/toolkit/gmail.svg" width="88" height="84" alt="Gmail" title="Gmail">
+  <img src="./assets/toolkit/linear.svg" width="88" height="84" alt="Linear" title="Linear">
+  <img src="./assets/toolkit/klaviyo.svg" width="88" height="84" alt="Klaviyo" title="Klaviyo">
+  <img src="./assets/toolkit/googlesheets.svg" width="88" height="84" alt="Google Sheets" title="Google Sheets">
+  <img src="./assets/toolkit/puppeteer.svg" width="88" height="84" alt="Puppeteer" title="Puppeteer">
+  <img src="./assets/toolkit/cheerio.svg" width="88" height="84" alt="Cheerio" title="Cheerio">
+</p>
+<p><strong>Earlier work</strong></p>
+<p>
+  <img src="./assets/toolkit/java.svg" width="88" height="84" alt="Java" title="Java">
+  <img src="./assets/toolkit/spring.svg" width="88" height="84" alt="Spring Boot" title="Spring Boot">
+</p>
+</details>
+
 
 ---
 

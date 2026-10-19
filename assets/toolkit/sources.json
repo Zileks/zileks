@@ -1,0 +1,376 @@
+{
+  "source": "Current published CV: Zile/apps/web/public/resume.pdf, extracted 19 October 2026",
+  "supplemental": {
+    "sqlite": "job_finder/package.json and src/lib/store.ts",
+    "threejs": "Zile/apps/web/package.json",
+    "react-three-fiber": "Zile/apps/web/package.json"
+  },
+  "notes": [
+    "Java and Spring Boot are listed under earlier work.",
+    "REST, OAuth, webhooks, LLM APIs, and Klaviyo use original concept symbols, not brand logos.",
+    "React Three Fiber uses the React symbol with a 3D label.",
+    "AWS is listed as a tool from the CV; no expertise level or AWS project outcome is asserted."
+  ],
+  "groups": [
+    {
+      "name": "Interfaces",
+      "collapsed": false,
+      "tools": [
+        {
+          "name": "TypeScript",
+          "file": "typescript.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/typescript/typescript-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "JavaScript",
+          "file": "javascript.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/javascript/javascript-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "React",
+          "file": "react.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/react/react-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Next.js",
+          "file": "nextjs.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nextjs/nextjs-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "TanStack Query",
+          "file": "reactquery.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/reactquery.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "Lit",
+          "file": "lit.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/lit.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "Storybook",
+          "file": "storybook.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/storybook/storybook-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Zod",
+          "file": "zod.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/zod.svg",
+          "provider": "simple-icons"
+        }
+      ]
+    },
+    {
+      "name": "Services & background jobs",
+      "collapsed": false,
+      "tools": [
+        {
+          "name": "Node.js",
+          "file": "nodejs.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nodejs/nodejs-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Python",
+          "file": "python.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/python/python-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "FastAPI",
+          "file": "fastapi.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/fastapi/fastapi-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Hono",
+          "file": "hono.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/hono.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "Express",
+          "file": "express.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/express/express-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "tRPC",
+          "file": "trpc.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/trpc/trpc-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Celery",
+          "file": "celery.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/celery.svg",
+          "provider": "simple-icons"
+        }
+      ]
+    },
+    {
+      "name": "Data & models",
+      "collapsed": false,
+      "tools": [
+        {
+          "name": "PostgreSQL",
+          "file": "postgresql.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/postgresql/postgresql-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "MongoDB",
+          "file": "mongodb.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/mongodb/mongodb-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Redis",
+          "file": "redis.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/redis/redis-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Drizzle ORM",
+          "file": "drizzle.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/drizzle.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "SQLAlchemy",
+          "file": "sqlalchemy.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/sqlalchemy/sqlalchemy-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Mongoose",
+          "file": "mongoose.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/mongoose/mongoose-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "SQLite",
+          "file": "sqlite.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/sqlite/sqlite-original.svg",
+          "provider": "devicon"
+        }
+      ]
+    },
+    {
+      "name": "APIs & integrations",
+      "collapsed": false,
+      "tools": [
+        {
+          "name": "Stripe",
+          "file": "stripe.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/stripe.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "Clerk",
+          "file": "clerk.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/clerk.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "REST APIs",
+          "file": "rest.svg",
+          "source": null,
+          "provider": "original"
+        },
+        {
+          "name": "OAuth",
+          "file": "oauth.svg",
+          "source": null,
+          "provider": "original"
+        },
+        {
+          "name": "Webhooks",
+          "file": "webhooks.svg",
+          "source": null,
+          "provider": "original"
+        },
+        {
+          "name": "LLM APIs",
+          "file": "llm.svg",
+          "source": null,
+          "provider": "original"
+        },
+        {
+          "name": "Anthropic",
+          "file": "anthropic.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/anthropic.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "OpenRouter",
+          "file": "openrouter.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/openrouter.svg",
+          "provider": "simple-icons"
+        }
+      ]
+    },
+    {
+      "name": "Delivery & operations",
+      "collapsed": false,
+      "tools": [
+        {
+          "name": "Docker",
+          "file": "docker.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/docker/docker-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "GitHub Actions",
+          "file": "githubactions.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/githubactions/githubactions-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Terraform",
+          "file": "terraform.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/terraform/terraform-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Azure",
+          "file": "azure.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/azure/azure-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "AWS",
+          "file": "amazonwebservices.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Prometheus",
+          "file": "prometheus.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/prometheus/prometheus-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Sentry",
+          "file": "sentry.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/sentry/sentry-original.svg",
+          "provider": "devicon"
+        }
+      ]
+    },
+    {
+      "name": "Testing",
+      "collapsed": false,
+      "tools": [
+        {
+          "name": "Playwright",
+          "file": "playwright.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/playwright/playwright-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "pytest",
+          "file": "pytest.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/pytest/pytest-original.svg",
+          "provider": "devicon"
+        }
+      ]
+    },
+    {
+      "name": "Creative web & mobile",
+      "collapsed": false,
+      "tools": [
+        {
+          "name": "Three.js",
+          "file": "threejs.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/threejs/threejs-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "React Three Fiber",
+          "file": "react-three-fiber.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/react/react-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Capacitor",
+          "file": "capacitor.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/capacitor/capacitor-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Google Maps API",
+          "file": "googlemaps.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/googlemaps.svg",
+          "provider": "simple-icons"
+        }
+      ]
+    },
+    {
+      "name": "More project integrations",
+      "collapsed": true,
+      "tools": [
+        {
+          "name": "Gmail",
+          "file": "gmail.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/gmail.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "Linear",
+          "file": "linear.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/linear.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "Klaviyo",
+          "file": "klaviyo.svg",
+          "source": null,
+          "provider": "original"
+        },
+        {
+          "name": "Google Sheets",
+          "file": "googlesheets.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/googlesheets.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "Puppeteer",
+          "file": "puppeteer.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/puppeteer.svg",
+          "provider": "simple-icons"
+        },
+        {
+          "name": "Cheerio",
+          "file": "cheerio.svg",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/cheerio.svg",
+          "provider": "simple-icons"
+        }
+      ]
+    },
+    {
+      "name": "Earlier work",
+      "collapsed": true,
+      "tools": [
+        {
+          "name": "Java",
+          "file": "java.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/java/java-original.svg",
+          "provider": "devicon"
+        },
+        {
+          "name": "Spring Boot",
+          "file": "spring.svg",
+          "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/spring/spring-original.svg",
+          "provider": "devicon"
+        }
+      ]
+    }
+  ]
+}
